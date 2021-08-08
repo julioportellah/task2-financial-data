@@ -8,3 +8,5 @@ shap
 imblearn
 xlrd
 statsmodels
+keras
+tensorflow
